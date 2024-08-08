@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Ryzen Kernel by Ryuzenn @ telegram
+kernel.string=Armageddon Kernel Made by @Miraclesupremacy
 do.devicecheck=1
 do.modules=1
 do.systemless=0
